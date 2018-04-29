@@ -3,3 +3,5 @@ Chapter 2.1 - Getting a Git Repository
 
 Show me the difference =)
 Modifications to a staged file.
+
+Commiting changes made to this file.
