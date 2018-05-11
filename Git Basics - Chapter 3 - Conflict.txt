@@ -1,1 +1,2 @@
 How to resolve conlicts on master branch.
+On branch feature/merge-conflict
